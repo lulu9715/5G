@@ -76,7 +76,17 @@ nav li:hover .submenu{
     
     
 }
-.submenu:hover{
-    background-color: aqua;
-    
+
+.menu-sujet .submenu{
+    background-color: RGBa(0, 0, 0, 0.20);
 }
+.rageux .submenu{
+    background-color: RGBa(0, 0, 0, 0.20);
+}
+.menu-info .submenu{
+    background-color: RGBa(0, 0, 0, 0.20);
+}
+
+    .submenu li:hover a{
+        color: #EEE;
+        font-weight: bold;
