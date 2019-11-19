@@ -30,11 +30,11 @@ nav > ul > li{
     position: relative;
 }
 nav > ul > li > a{
-    padding:20px 40px;
+    padding:25px 40px;
     color: #FFF;
 }
 nav > ul > li:hover a{
-    padding: 15px 30px 20px 30px;
+    padding-top: 20px;
 }
 nav li{
     list-style-type:none;
@@ -78,5 +78,10 @@ nav li:hover .submenu{
 .menu-sujet:hover{
     border-top: 5px solid #A29F9E;
     background-color:  RGBa(162, 159, 158, 0.15);
+    
+    
+}
+.submenu:hover{
+    background-color: aqua;
     
 }
