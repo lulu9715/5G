@@ -86,7 +86,7 @@ nav li:hover .submenu{
     background-color: RGBa(0, 0, 0, 0.20);
 }
 .menu-info .submenu{
-    background-color: RGBa(0, 0, 0, 0.20);
+    background-color: RGBa(0, 0, 0, 0.10);
 }
 
     .submenu li:hover a{
