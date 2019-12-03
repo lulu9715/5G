@@ -116,9 +116,11 @@ img{
     float: left;
     /*right: 1100px;*/
     top: 0px;
-    height: auto;
-    
-   
-        
+    height: auto;  
     
 }    
+.center{
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: fantasy;
+}
