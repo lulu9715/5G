@@ -24,6 +24,7 @@ nav > ul::after{
 nav > ul > li{
     display: inline-block;
     float: center;
+    right: 250px;
     position: relative;
 }
 nav > ul > li > a{
@@ -60,10 +61,10 @@ nav li:hover .submenu{
     color: #222538;
     width: 270px;
 }
-.menu-accueil:hover{
+/*.menu-accueil:hover{
     border-top: 5px solid #A29F9E;
     background-color: RGBa(162, 159, 158, 0.15);
-}
+}*/
 .rageux:hover{
     border-top: 5px solid #A29F9E;
     background-color: RGBa(162, 159, 158, 0.15);
@@ -107,3 +108,12 @@ nav li:hover .submenu{
 .center {
     text-align: center;
 }
+img{
+    width: 140px;
+    position: absolute;
+    float: left;
+    /*right: 1100px;*/
+    top: 0px;
+    height: auto;
+
+}    
