@@ -11,6 +11,7 @@ body{
     position: absolute;
     right:120px;
     margin: 19px;
+    border-radius: 15px;
 }
 
 .imgreseaux1 {
@@ -19,6 +20,7 @@ body{
     position: absolute;
     right:80px;
     margin: 19px;
+    border-radius: 15px;
 }
 
 .imgreseaux2 {
@@ -27,6 +29,7 @@ body{
     position: absolute;
     right:40px;
     margin: 19px;
+    border-radius: 15px;
 }
 
 
