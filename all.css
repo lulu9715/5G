@@ -152,3 +152,7 @@ img{
     font-size: 17px;
     font-family: 'Pacifico', cursive;
 }
+
+.souligner {
+    text-decoration: underline;
+}
