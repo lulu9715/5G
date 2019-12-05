@@ -5,7 +5,32 @@ body{
     
 }
 
+.imgreseaux {
+    width:30px;
+    height:30px;
+    position: absolute;
+    right:120px;
+    margin: 19px;
+    border-radius: 15px;
+}
 
+.imgreseaux1 {
+    width:30px;
+    height:30px;
+    position: absolute;
+    right:80px;
+    margin: 19px;
+    border-radius: 15px;
+}
+
+.imgreseaux2 {
+    width:30px;
+    height:30px;
+    position: absolute;
+    right:40px;
+    margin: 19px;
+    border-radius: 15px;
+}
 
 
 nav{
