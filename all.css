@@ -150,9 +150,13 @@ img{
 
 .texte{
     font-size: 17px;
+<<<<<<< HEAD
     font-family: 'Pacifico', cursive;
 }
 
 .souligner {
     text-decoration: underline;
+=======
+    font-family: 'Comfortaa', cursive;
+>>>>>>> master
 }
