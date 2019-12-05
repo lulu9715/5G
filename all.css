@@ -103,8 +103,6 @@ nav li:hover .submenu{
 .menu-sujet:hover{
     border-top: 5px solid #A29F9E;
     background-color:  RGBa(162, 159, 158, 0.15);
-    
-    
 }
 
 .menu-sujet .submenu{
