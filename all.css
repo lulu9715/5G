@@ -52,7 +52,6 @@ nav > ul::after{
 } 
 nav > ul > li{
     display: inline-block;
-    float: center;
     right: 250px;
     position: relative;
 
@@ -94,16 +93,6 @@ nav li:hover .submenu{
     width: 270px;
 }
 
-/*
-.rageux:hover{
-    border-top: 5px solid #A29F9E;
-    background-color: RGBa(162, 159, 158, 0.15);
-}
-.menu-info:hover{
-    border-top: 5px solid #A29F9E;
-    background-color:  RGBa(162, 159, 158, 0.15);
-}
-*/
 .menu-sujet:hover{
     border-top: 5px solid #A29F9E;
     background-color:  RGBa(162, 159, 158, 0.15);
@@ -164,7 +153,7 @@ nav li:hover .submenu{
       #shape {
         stroke-width: 6px;
         fill: transparent;
-        stroke: #009FFD;
+        stroke: rgb(0, 38, 253);
         stroke-dasharray: 85 400;
         stroke-dashoffset: -220;
         transition: 1s all ease;
@@ -188,7 +177,7 @@ nav li:hover .submenu{
         stroke-dasharray: 50 0;
         stroke-width: 3px;
         stroke-dashoffset: 0;
-        stroke: #06D6A0;
+        stroke: rgb(0, 247, 255);
 }
 
     .submenu li:hover a{
@@ -242,6 +231,7 @@ img{
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     padding: 12px 16px;
     z-index: 10;
+    
   }
   
   .dropdown:hover .dropdown-content {
