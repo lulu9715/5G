@@ -144,7 +144,6 @@ nav li:hover .submenu{
         margin-top: 0;
         position: relative;
         width: 150px;
-        border:2px solid red;
         height: 50px;
         display: inline-block;
         border-radius: 3px;
