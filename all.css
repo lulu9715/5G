@@ -115,7 +115,8 @@ nav li:hover .submenu{
         text-align: center;
         margin-top: 2%;
         float:left;
-        margin-left: 23%;
+        margin-left: 32%;
+        
       }
       
 
@@ -150,7 +151,7 @@ nav li:hover .submenu{
         margin-left: 5px;
         margin-right: 5px;
         /*font-size: 15px;*/
-        left: 100px
+        
         
       }
 
@@ -197,6 +198,7 @@ nav li:hover .submenu{
     margin-top: 108px;
     height: 1300px;
     border: 5px solid rgb(0, 0, 0);
+    
         
         }
     
