@@ -196,7 +196,7 @@ nav li:hover .submenu{
     padding: 50px;
     margin: 300px;
     margin-top: 108px;
-    height: 1300px;
+    height: auto;
     border: 5px solid rgb(0, 0, 0);
     
         
@@ -223,6 +223,7 @@ img{
 .texte{
     font-size: 17px;
     font-family: 'Comfortaa', cursive;
+   
 }
 
 .souligner {
@@ -237,12 +238,14 @@ img{
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     padding: 12px 16px;
-    z-index: 10;
-  
-    
+    z-index: 10;  
   }
   
   .dropdown:hover .dropdown-content {
     display: block;
   }
   /* --------------- ----------------------------------------------- */
+  .intro {
+      font-size: 22px;
+      font-weight: bold;
+  }
