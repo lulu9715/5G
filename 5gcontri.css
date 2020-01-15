@@ -4,6 +4,8 @@ body {
     background-size:cover;
     }
 
-.texte > .contribution {
-    
+.Image{
+    content: url(https://www.servicesmobiles.fr/wp-content/uploads/2019/04/Tech_5G.jpg);
+    position: relative;
+    border: 5px solid rgba(0, 0, 0,0.5);
 }
