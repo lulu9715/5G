@@ -136,6 +136,7 @@ nav li:hover .submenu{
         height: 100%;
         top: 8;
         left: 0;
+        border: red 4px;
         
       }
 
@@ -171,12 +172,7 @@ nav li:hover .submenu{
         text-align: center;
       }
       
-      #text a {
-        color: white;
-        text-decoration: none;
-        font-weight: 100;
-        font-size: 1.1em;
-      }
+      
 
       
       .svg-wrapper:hover #shape {
@@ -249,5 +245,13 @@ img{
       font-size: 22px;
       font-weight: bold;
   }
+ 
+      #text a{
+          color: black;
+          transition: color 1s;
+      }
+      #text a:hover{
+          color: white;
+      }
 
   
