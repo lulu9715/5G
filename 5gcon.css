@@ -3,3 +3,16 @@ body {
     background:url(img5g/Mrsimon.jpg) no-repeat center fixed;
     background-size:cover;
     }
+    .box .link li a {
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        
+    }
+    .link li a {
+        transition: color 1s;
+    } 
+    .link li a:hover{
+        color: rgb(255, 255, 255);
+
+    }
