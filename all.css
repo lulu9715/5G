@@ -160,7 +160,7 @@ nav li:hover .submenu{
       #shape {
         stroke-width: 6px;
         fill: transparent;
-        stroke: rgb(0, 38, 253);
+        stroke: rgb(79, 174, 211);
         stroke-dasharray: 85 400;
         stroke-dashoffset: -220;
         transition: 1s all ease;
@@ -247,11 +247,19 @@ img{
   }
  
       #text a{
-          color: black;
-          transition: color 1s;
+          color: gray;
+          transition: color 0.2s;
       }
       #text a:hover{
           color: white;
       }
-
+#imglogo img{
+    background-color: white;
+    /*position: absolute;
+    width: 141px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    */
+    height:auto;
+}
   
